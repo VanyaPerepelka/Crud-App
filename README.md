@@ -1,5 +1,5 @@
 # Crud-App
-My first crud implementation using SpingBoot
+My first crud implementation using SpingBoot.
 Tech stack:
 -MySQL
 -Maven
